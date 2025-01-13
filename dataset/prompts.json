@@ -1,0 +1,337 @@
+{
+    "test1": {
+        "textual_condition": "Isometric view of game scene, a forest with few trees, a river, a bridge, a bridge, a post cabin",
+        "segment_descriptions": [
+            "a forest with few trees",
+            "a river",
+            "a bridge",
+            "a bridge",
+            "a post cabin"
+        ],
+        "seed": 234782093,
+        "switch_prompt": 1
+    },
+    "test2": {
+        "textual_condition": "Isometric view of game scene, a plain, walk path, a river, a high mountain, houses",
+        "segment_descriptions": [
+            "a plain",
+            "a high mountain",
+            "a river",
+            "walk path",
+            "houses"
+        ],
+        "seed": 23452255,
+        "switch_prompt": 1
+    },
+    "test3": {
+        "textual_condition": "Isometric view of game scene, a field with ice and snow, iced hills, winding road, trees, a red house",
+        "segment_descriptions": [
+            "a field with ice and snow",
+            "iced hills",
+            "winding road",
+            "trees",
+            "a red house"
+        ],
+        "seed": 234523655,
+        "switch_prompt": 1
+    },
+    "iclr1": {
+        "textual_condition": "isometric view of a game scene, a seaside, a golden beach, a forest with trees, a blue sea, wooden holiday houses, beach umbrellas",
+        "segment_descriptions": [
+            "a seaside",
+            "a blue sea",
+            "a golden beach",
+            "a forest with trees",
+            "wooden holiday houses",
+            "beach umbrellas"
+        ],
+        "seed": 958162818,
+        "switch_prompt": 1
+    },
+    "iclr2": {
+        "textual_condition": "Isometric view of a scene, beach, sea, cabins, fence",
+        "segment_descriptions": [
+            "beach",
+            "sea",
+            "fence",
+            "cabins"
+        ],
+        "seed": 469734125,
+        "switch_prompt": 1
+    },
+    "iclr3": {
+        "textual_condition": "isometric view of a game scene, a snowy plain, a river, houses, pines",
+        "segment_descriptions": [
+            "a snowy plain",
+            "a river",
+            "houses",
+            "pines"
+        ],
+        "seed": 367695951,
+        "switch_prompt": 1
+    },
+    "iclr4": {
+        "textual_condition": "Isometric view of a game scene, desert, cliff, pyramid, palm trees",
+        "segment_descriptions": [
+            "desert",
+            "cliff",
+            "pyramid",
+            "palm trees"
+        ],
+        "seed": 594424400,
+        "switch_prompt": 1
+    },
+    "iclr5": {
+        "textual_condition": "Isometric view of game scene, city, road, houses, garden",
+        "segment_descriptions": [
+            "city",
+            "road",
+            "houses",
+            "garden"
+        ],
+        "seed": 24736471,
+        "switch_prompt": 1
+    },
+    "iclr6": {
+        "textual_condition": "isometric view of a game scene, countryside, a river, bridges, houses",
+        "segment_descriptions": [
+            "countryside",
+            "a river",
+            "houses",
+            "bridges"
+        ],
+        "seed": 613611240,
+        "switch_prompt": 1
+    },
+    "iclr7": {
+        "textual_condition": "Isometric view of game scene, beach, tropical islands, ocean, palm trees",
+        "segment_descriptions": [
+            "beach",
+            "ocean",
+            "tropical islands",
+            "palm trees"
+        ],
+        "seed": 846198805,
+        "switch_prompt": 1
+    },
+    "iclr8": {
+        "textual_condition": "Isometric view of a game scene, Gobi desert, dark clouds, steep cliff, a mountain slope, a road, a broken cabin",
+        "segment_descriptions": [
+            "Gobi desert",
+            "steep cliff",
+            "dark clouds",
+            "a mountain slope",
+            "a road",
+            "a broken cabin"
+        ],
+        "seed": 895655148,
+        "switch_prompt": 1
+    },
+    "iclr9": {
+        "textual_condition": "Isometric view of a game scene, medieval village, cobblestone road, castle, market stalls",
+        "segment_descriptions": [
+            "medieval village",
+            "castle",
+            "cobblestone road",
+            "market stalls"
+        ],
+        "seed": 222138168,
+        "switch_prompt": 1
+    },
+    "iclr10": {
+        "textual_condition": "Isometric view of a game scene, volcanic terrain, lava river, rocky cliffs, erupting volcano",
+        "segment_descriptions": [
+            "volcanic terrain",
+            "rocky cliffs",
+            "lava river",
+            "erupting volcano"
+        ],
+        "seed": 220440280,
+        "switch_prompt": 1
+    },
+    "iclr11": {
+        "textual_condition": "Isometric view of a game scene, jungle, ruined temple, vines, waterfalls, a big rock",
+        "segment_descriptions": [
+            "jungle",
+            "waterfalls",
+            "ruined temple",
+            "vines",
+            "a big rock"
+        ],
+        "seed": 732202590,
+        "switch_prompt": 1
+    },
+    "iclr12": {
+        "textual_condition": "Isometric view of a game scene, dim swamp , murky water, a wooden cabin,  tall grass, a bridge",
+        "segment_descriptions": [
+            "swamp",
+            "murky water",
+            "tall grass",
+            "a wooden cabin",
+            "a bridge"
+        ],
+        "seed": 271957075,
+        "switch_prompt": 1
+    },
+    "iclr13": {
+        "textual_condition": "Isometric view of a game scene, arctic tundra, frozen river, a house, stones, trees",
+        "segment_descriptions": [
+            "arctic tundra",
+            "frozen river",
+            "a house",
+            "stones",
+            "trees"
+        ],
+        "seed": 155597557,
+        "switch_prompt": 1
+    },
+    "iclr14": {
+        "textual_condition": "isometric view of game scene, a forest, a lake, a path, stones, a wooden house",
+        "segment_descriptions": [
+            "a forest",
+            "a lake",
+            "a path",
+            "stones",
+            "a wooden house"
+        ],
+        "seed": 816141395,
+        "switch_prompt": 1
+    },
+    "iclr15": {
+        "textual_condition": "Isometric view of a game scene, urban park, a playground, fences, trees",
+        "segment_descriptions": [
+            "urban park",
+            "a playground",
+            "trees",
+            "fences"
+        ],
+        "seed": 787604033,
+        "switch_prompt": 1
+    },
+    "iclr16": {
+        "textual_condition": "Isometric view of a game scene, rocky beach, coastal cliffs, stormy ocean, lighthouse, caves",
+        "segment_descriptions": [
+            "rocky beach",
+            "coastal cliffs",
+            "stormy ocean",
+            "caves",
+            "lighthouse"
+        ],
+        "seed": 643129476,
+        "switch_prompt": 1
+    },
+    "iclr17": {
+        "textual_condition": "Isometric view of a game scene, small village, snowy mountains, frozen lake, abandoned castle, a path, pine trees",
+        "segment_descriptions": [
+            "small village",
+            "snowy mountains",
+            "frozen lake",
+            "abandoned castle",
+            "a path",
+            "pine trees"
+        ],
+        "seed": 964570425,
+        "switch_prompt": 1
+    },
+    "reb1": {
+        "textual_condition": "In an indoor scene, a beige ceiling, a black oven, a wooden table, red chairs",
+        "segment_descriptions": [
+            "an indoor scene",
+            "a beige ceiling",
+            "a black oven",
+            "a wooden table",
+            "red chairs"
+        ],
+        "seed": 552106984,
+        "switch_prompt": 2
+    },
+    "reb22": {
+        "textual_condition": "In a yard, a black cat, a white cat, a red cat, a blue cat, a green cat, realistic",
+        "segment_descriptions": [
+            "a yard",
+            "a blue cat",
+            "a black cat",
+            "a red cat",
+            "a white cat",
+            "a green cat"
+        ],
+        "seed": 48780895,
+        "switch_prompt": 2
+    },
+    "reb2": {
+        "textual_condition": "In a yard, a gray cat, a beige cat, a yellow cat, a black cat, a white cat, realistic, extremely high quality RAW photograph",
+        "segment_descriptions": [
+            "a yard",
+            "a black cat",
+            "a yellow cat",
+            "a white cat",
+            "a gray cat",
+            "a beige cat"
+        ],
+        "seed": 60478677,
+        "switch_prompt": 2
+    },
+    "reb3": {
+        "textual_condition": "In a garden, a red rose, an orange rose, a yellow rose, a pink rose, a blue rose, a walking path, a blue sky",
+        "segment_descriptions": [
+            "a garden",
+            "a blue sky",
+            "a walking path",
+            "a blue rose",
+            "a red rose",
+            "a yellow rose",
+            "a pink rose",
+            "an orange rose"
+        ],
+        "seed": 395400749,
+        "switch_prompt": 2
+    },
+    "0": {
+        "textual_condition": "There is a cute monkey on a thick branch who is holding a pink rose. It is on the top of a huge tree, and the sky is so wide and blue.",
+        "segment_descriptions": [
+            "the sky is so wide and blue",
+            "a huge tree",
+            "a thick branch",
+            "a cute monkey",
+            "a pink rose"
+        ],
+        "seed": 381940206,
+        "switch_prompt": 2
+    },
+    "1": {
+        "textual_condition": "A painting of a dog riding a flying bicycle, over a big city with a yellowish full moon in the night sky.",
+        "segment_descriptions": [
+            "the night sky",
+            "a big city",
+            "a dog riding a flying bicycle",
+            "a yellowish full moon"
+        ],
+        "seed": 44046202,
+        "switch_prompt": 2
+    },
+    "5": {
+        "textual_condition": "A realistic photograph of a couple holding a yellow umbrella in a street on a rainy night. The woman is wearing a white dress and the man is wearing a blue suit.",
+        "segment_descriptions": [
+            "a street on a rainy night",
+            "the man is wearing a blue suit",
+            "a yellow umbrella",
+            "the woman is wearing a white dress"
+        ],
+        "seed": 190360420,
+        "switch_prompt": 2
+    },
+    "reb4": {
+        "textual_condition": "In a restroom, a sink with a cabinet, a water tap, a round mirror, a white toilet, a storage rack, a towel rack, realistic, extremely high quality RAW photograph",
+        "segment_descriptions": [
+            "In a restroom",
+            "a sink with a cabinet",
+            "a white toilet",
+            "a towel rack",
+            "a round mirror",
+            "a storage rack",
+            "a water tap"
+        ],
+        "seed": 73295894,
+        "switch_prompt": 2
+    }
+}
